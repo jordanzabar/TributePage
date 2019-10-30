@@ -1,7 +1,11 @@
 # TributePage
 
+You can check out the project here: https://jordanzabar.github.io/TributePage/
+
 TributePage is a responsive web design project based off the FreeCodeCamp course. In this project I had to create a tribute page
 for anyone of my choice and made sure the project had the correct requirements. Below are the requirements I had to ensure my project had:
+
+* Outside of the requirements I made sure that my project was responsive on all devices.
 
 User Story #1: My tribute page should have an element with a corresponding id="main", which contains all other elements.
 
